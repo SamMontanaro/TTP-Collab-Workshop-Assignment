@@ -1,0 +1,26 @@
+.ff-varela-round {
+    font-family: 'Varela Round', sans-serif;
+}
+
+.ff-noto-serif {
+    font-family: 'Noto Serif', serif;
+}
+
+.homeHero {
+    background-image: url(../Images/DogHero.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.h-100vh {
+    height: 100vh;
+}
+
+.bg-hunter-green {
+    background-color: #3e5641;
+}
+
+.bg-charleston-green {
+    background-color: #282B28;
+}
