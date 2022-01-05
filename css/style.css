@@ -24,3 +24,8 @@
 .bg-charleston-green {
     background-color: #282B28;
 }
+
+.card-img-top {
+    height: 10vw;
+    object-fit: contain;
+}
